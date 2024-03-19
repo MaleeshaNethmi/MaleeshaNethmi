@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Restaurant Recommendation System**
 
-- 🌱 I’m currently learning **I’m currently learning React.JS,Algorithms and Machine Learning with Python**
+- 🌱 I’m currently learning React.JS,Algorithms and Machine Learning with Python**
 
 - 📫 How to reach me **mnethmi27@gmail.com**
 
