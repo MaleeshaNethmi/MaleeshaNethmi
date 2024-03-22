@@ -6,7 +6,6 @@
 <p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500"></p>
 <br></br>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maleeshanethmi" alt="maleeshanethmi" /></a> </p>
 
 - 🔭 I’m currently working on **Restaurant Recommendation System**
