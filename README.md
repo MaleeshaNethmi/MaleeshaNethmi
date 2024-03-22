@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Maleesha Nethmi</h1>
 <h3 align="center">A passionate Software Engineering Undergraduate At Informatics Institute of Technology</h3>
 
-<p align="cecmter"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500"></p>
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500"></p>
 <br></br>
 
 
