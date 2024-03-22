@@ -16,6 +16,7 @@
 - 📫 How to reach me **mnethmi27@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MpJRbHB0rNcaZuhdsnsK4PO8FMzIx7up/view?usp=sharing](https://drive.google.com/file/d/1MpJRbHB0rNcaZuhdsnsK4PO8FMzIx7up/view?usp=sharing)
+- I am writing blogs on https://medium.com/@maleesha.20221155
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
